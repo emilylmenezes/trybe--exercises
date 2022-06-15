@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Formulário</title>
+  </head>
+  <body>
+    <h1>Tela de Cadastro</h1>
+    <form id="forms-caixa">
+      <fieldset>
+        <div class="nome">
+          <label id="name">Nome</label>
+          <input type="text" minlength="10" maxlength="40" />
+        </div>
+
+        <div class="div-email">
+          <label id="email" minlength="10" maxlength="50">Email</label>
+          <input type="email" />
+        </div>
+
+        <div class="opcoes">
+          <input type="radio" />
+          <label id="cidade">Cidade</label>
+
+          <input type="radio" />
+          <label id="campo">Campo</label>
+
+          <input type="radio" />
+          <label id="praia">Praia</label>
+
+          <input type="radio" />
+          <label id="montanha">Montanhas</label>
+        </div>
+
+        <label id="textarea"
+          >Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+          TrybeTrip?</label
+        >
+        <textarea maxlength="500" id="texto"></textarea>
+
+        <div class="caixa-data">
+          <label id="data">Qual a melhor data para realizar sua viagem?</label>
+          <input type="date" class="escolha-data" />
+        </div>
+
+        <div class="termos">
+          <label>
+            Gostaria de receber outras incríveis oportunidades oferecidas pela
+            Trybe?</label
+          >
+        </div>
+
+        <div class="concordo">
+          <label>Sim</label>
+          <input type="checkbox" id="termo-sim" />
+          <label>Não</label>
+          <input type="checkbox" id="termo-nao" />
+        </div>
+      </fieldset>
+      <button type="submit" class="enviar">Enviar</button>
+      <button type="submit" id="limpar">Limpar</button>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
