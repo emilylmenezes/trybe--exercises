@@ -57,7 +57,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [x] 6.6 - [Projeto - Trybewarts](https://github.com/tryber/sd-022-a-project-trybewarts/tree/emily-menezes-trybewarts)
 
-##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/emilylmenezes/trybe-exercicios/tree/main/fundamentos/bloco-7-introducao-a-javascript-es6-e-testes-unitarios)
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/emilylmenezes/trybe--exercises/tree/master/fundamentos/bloco-7-introducao-a-javascript-es6-e-testes-unitarios)
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Objects
 - [x] 7.3 - Testes unitários em JavaScript
