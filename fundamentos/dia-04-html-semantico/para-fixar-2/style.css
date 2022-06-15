@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.cabecalho{
+    background-color: blueviolet;
+    height: 80px;
+}
+
+.cabecalho h1{
+    position: absolute;
+    color: white;
+    left: 320px;
+    top: 15px;
+}
+
+nav{
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
+nav a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+
+.fatos-sobre h2{
+    margin-left: 460px;
+    margin-top: 30px;
+}
+
+.info-gerais h3{
+    margin-left: 530px;
+    margin-top: 30px;
+}
+
+.info-gerais li{
+    margin-left: 300;
+    margin-top: 30px;
+   text-align: center;
+   list-style-type: none;
+}
+.curiosidades img{
+    width: 200px;
+    margin-left: 530px;
+
+}
+
+.curiosidades h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.curiosidades p{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video-curiosidade{
+    padding: 50px;
+    margin-left: 340px;
+}
+
+p {
+    padding: 0 10px;
+}
+.olhos-curiosidade h3{
+    text-align: center;
+    margin-top: 15px;
+}
+.olhos-curiosidade img{
+    margin-left: 530px;
+    width: 200px;
+}
+.olhos-curiosidade p{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.visual h3{
+    text-align: center;
+    margin-top: 15px;
+}
+.visual img{
+    width: 200px;
+    margin-left: 530px;
+
+}
+
+.visual p{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.detalhes{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+}
+
