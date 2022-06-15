@@ -63,7 +63,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 7.3 - Testes unitários em JavaScript
 - [x] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-022-a-project-js-unit-tests/tree/emily-menezes-project-js-unit-test)
 
-##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/emilylmenezes/trybe-exercicios/tree/main/fundamentos/bloco-8-higher-order-functions-do-javascript-es6)
+##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/emilylmenezes/trybe--exercises/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6)
 - [x] 8.1 - Higher Order Functions do JavaScript ES6
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
