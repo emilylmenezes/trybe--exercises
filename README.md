@@ -48,7 +48,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/tryber/sd-022-a-project-mistery-letter/tree/emily-menezes-mistery-letter)
 - [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
-##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/emilylmenezes/trybe-exercicios/tree/main/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo)
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/emilylmenezes/trybe--exercises/tree/master/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo)
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 6.3 - Introdução - CSS Flexbox
