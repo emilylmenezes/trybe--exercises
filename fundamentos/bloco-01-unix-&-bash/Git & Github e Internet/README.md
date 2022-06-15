@@ -1,0 +1,1 @@
+#### Nesse bloco aprendemos a utilizar o git e github, falamos sobre os protocolos e todas as particularidades da internet
