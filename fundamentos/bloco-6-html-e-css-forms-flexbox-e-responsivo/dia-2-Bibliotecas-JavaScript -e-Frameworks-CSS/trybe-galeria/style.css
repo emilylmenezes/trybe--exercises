@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(172, 189, 181);
+}
+.cabecalho {
+  background-color: rgb(50, 52, 51);
+  width: 100%;
+  color: white;
+}
+
+.nav img {
+  width: 40px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  justify-content: space-around;
+}
+
+.paragrafo {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 400px;
+  padding: 9px;
+  margin: 0 auto;
+}
+
+.container p {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+}
+.tecnologias {
+  width: 100px;
+  gap: calc(20px + 10%);
+}
+
+.imagens-rodape {
+  padding: 50px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.linkedln,
+.instagram {
+  width: 90px;
+  padding: 15px;
+}
