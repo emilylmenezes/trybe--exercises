@@ -73,7 +73,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ## Desenvolvimento Front-end :white_check_mark:
 
-##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_9-JavaScript-Assincrono-e-Promises)
+##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/emilylmenezes/trybe--exercises/tree/master/front%20end/bloco-9-javascript-e-testes-assincronos)
 - [x] 9.1 - Introdução - Front-end
 - [x] 9.2 - JavaScript Assíncrono e Callbacks
 - [x] 9.3 - JavaScript Assíncrono - Fetch API e async/await
