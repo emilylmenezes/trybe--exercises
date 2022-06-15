@@ -71,6 +71,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - [Projeto - Zoo functions](https://github.com/tryber/sd-022-a-project-zoo-functions/pull/75)
 
+## Desenvolvimento Front-end :white_check_mark:
+
 ##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_9-JavaScript-Assincrono-e-Promises)
 - [x] 9.1 - Introdução - Front-end
 - [x] 9.2 - JavaScript Assíncrono e Callbacks
@@ -78,3 +80,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 9.4 - Jest - Testes Assíncronos
 - [x] 9.5 - [Projeto - Carrinho de Compras]([https://github.com/tryber/sd-015-a-project-shopping-cart/pull/4](https://github.com/tryber/sd-022-a-project-shopping-cart/pull/21))
 
+##### Bloco 10: Introdução à React
+- [x] 10.1 - Introdução - React
+- [x] 10.1 - 'Hello, world!' no React!
+- [x] 10.2 - Componentes React
+- [x] 10.3 - [Projeto - Sistema Solar]()
