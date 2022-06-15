@@ -36,7 +36,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4.4 - JavaScript - Objetos e funções
 - [x] 4.5 - _[Projeto - Playground Functions](https://github.com/tryber/sd-022-a-project-playground-functions/tree/emily-menezes-playground-functions)_
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/emilylmenezes/trybe-exercicios/tree/main/fundamentos/bloco-5-javascript-dom-eventos-e-web-storage/dia-1-javascript-dom-e-seletores)
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/emilylmenezes/trybe--exercises/tree/master/fundamentos/bloco-5-javascript-dom-eventos-e-web-storage)
 - [x] 5.1 - JavaScript - DOM e seletores
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
