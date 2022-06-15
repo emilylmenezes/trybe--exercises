@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:bisque;
+}
+
+.cabecalho{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.cabecalho p{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.conteudo-principal{
+    margin-left: 440px;
+    margin-top: 60px;
+}
+
+.conteudo-principal button{
+    margin-top: 15px;
+    width: 155px;
+    height: 48px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+.conteudo-principal p{
+    margin-top: 15px;
+}
+
+.artigo-lorem{
+    margin-top: 50px;
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
