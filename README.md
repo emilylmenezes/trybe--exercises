@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-4: _HTML Semântico_
 - [X] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-022-a-project-lessons-learned/pull/68)_
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/emilylmenezes/trybe-exercicios/tree/main/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao)
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/emilylmenezes/trybe--exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/dia-1-javascript-primeiros-passos/pratica)
 - [x] 4.1 - Introdução - JavaScript
 - [x] 4.1 - JavaScript - Primeiros passos
 - [x] 4.2 - JavaScript - Array e loop For
