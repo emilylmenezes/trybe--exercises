@@ -1,4 +1,5 @@
 import React from 'react';
+import{ Component } from "react";
 import './page.css'
 
 const conteudos = [
@@ -24,7 +25,7 @@ const conteudos = [
   },
 ]
 
-class Content extends React.Component {
+class Content extends Component {
   render() {
     return(
     <div className="content">
