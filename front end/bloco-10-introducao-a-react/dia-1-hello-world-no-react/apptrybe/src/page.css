@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(234, 101, 243, 0.512);
+}
+
+.titulo {
+    color: red;
+    text-align: center;
+}
+
+.content {
+    color: black;
+    text-align: center;
+}
+
+.footer {
+     color: red;
+     text-align: center;
+}
