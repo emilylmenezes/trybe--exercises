@@ -80,7 +80,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 9.4 - Jest - Testes Assíncronos
 - [x] 9.5 - [Projeto - Carrinho de Compras](https://github.com/tryber/sd-022-a-project-shopping-cart/pull/21)
 
-##### Bloco 10: Introdução à React
+##### Bloco 10: [Introdução à React](https://github.com/emilylmenezes/trybe--exercises/tree/master/front%20end/bloco-10-introducao-a-react)
 - [x] 10.1 - Introdução - React
 - [x] 10.1 - 'Hello, world!' no React!
 - [ ] 10.2 - Componentes React
