@@ -83,5 +83,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 10: [Introdução à React](https://github.com/emilylmenezes/trybe--exercises/tree/master/front%20end/bloco-10-introducao-a-react)
 - [x] 10.1 - Introdução - React
 - [x] 10.1 - 'Hello, world!' no React!
-- [ ] 10.2 - Componentes React
-- [ ] 10.3 - [Projeto - Sistema Solar]()
+- [x] 10.2 - Componentes React
+- [x] 10.3 - [Projeto - Sistema Solar]()
