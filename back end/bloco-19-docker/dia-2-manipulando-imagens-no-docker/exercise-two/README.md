@@ -1,0 +1,1 @@
+## Considerações sobre o exercício
