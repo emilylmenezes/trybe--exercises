@@ -37,3 +37,12 @@ Acessei as alterações por esse caminho: http://localhost:1234
 
 docker rm -f meu-container
 
+## Costrução de múltiplos estágios
+
+Mudei o Dockerfile para notar a diferença de tamanho quando utilizamos estágios
+
+![image](https://user-images.githubusercontent.com/84086374/189194451-17ae4f3e-8dc5-4fd4-8128-0006422317ea.png)
+
+E essa foi a diferença: 
+
+![image](https://user-images.githubusercontent.com/84086374/189194114-f4e22eb5-192f-4b1b-8749-299c0261c720.png)
